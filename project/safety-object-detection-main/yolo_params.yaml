@@ -1,0 +1,5 @@
+train: C:\Users\shikh\Desktop\Hackathon\hackathon2_train_1
+val: C:\Users\shikh\Desktop\Hackathon\hackathon2_train_1 #path to validation folder(s)
+test: C:\Users\shikh\Desktop\Hackathon\hackathon2_test3 #path to testing images
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
