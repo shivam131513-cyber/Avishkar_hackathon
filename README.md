@@ -8,7 +8,6 @@ This application integrates a trained YOLOv8 model with a React frontend to dete
 
 - **Backend**: Flask API serving YOLO model predictions
 - **Frontend**: React/TypeScript UI with drag-and-drop image upload
-- **Model**: Trained YOLOv8 on 2,100+ synthetic images (mAP@0.5: 76%)
 
 ## 🎯 Features
 
@@ -168,8 +167,6 @@ Upload image for object detection
 3. **View Results**: 
    - Left panel: Image with green bounding boxes
    - Right panel: Detection report with confidence scores
-4. **Reset**: Click "Reset & Analyze New Image" to try another
-
 ## ⚠️ Troubleshooting
 
 **Frontend shows connection error:**
